@@ -3,43 +3,41 @@
         {
             "id": 0,
             "name": "SONEVA JANI",
-            "location": "MALDIVES",
-            "img": "https://cf.bstatic.com/images/hotel/max1024x768/287/287331792.jpg"
+            "location": "Maldives",
+            "img": "https://cf.bstatic.com/images/hotel/max1024x768/287/287331792.jpg",
+            "desc": "Inspired by a word that means wisdom in Sanskrit, Soneva Jani is located on Medhufaru island, which is part of an uninhabited five-island cluster in the Noonu Atoll. The Maldives’ most exclusive hotel, and my absolutely favorite hotel in the world, is fringed by pristine beaches, blanketed with lush tropical greenery, and surrounded by a 5.6 km (3,4 mi) lagoon of crystal clear waters with uninterrupted 360° views of the Indian Ocean. Currently, "
         },
 
          {
             "id": 1,
             "name": "NORTH ISLAND",
-            "location": "SEYCHELLES",
-            "img": "https://www.north-island.com/wp-content/uploads/2018/10/north-island-the-island-8.jpg"
+            "location": "Seychelles",
+            "img": "https://www.north-island.com/wp-content/uploads/2018/10/north-island-the-island-8.jpg",
+            "desc": "North Island has a reputation as world’s most exclusive hideaway. The insanely beautiful island has only 11 opulent hand-crafted villas overlooking the pristine, powder-white sands and turquoise waters of the Ile Du Nord eco-reserve. Raised off the ground to catch the cooling Indian Ocean breezes, all villas open up onto private gardens and the beach."
         },
 
          {
             "id": 2,
             "name": "Soneva Kiri",
-            "location": "THAILAND",
-            "img": "https://deluxe-escapes.com/wp-content/uploads/2013/11/Soneva-Kiri-3-Cover-1050x600.jpg"
+            "location": "Thailand",
+            "img": "https://deluxe-escapes.com/wp-content/uploads/2013/11/Soneva-Kiri-3-Cover-1050x600.jpg",
+            "desc": "Remote yet accessible by a one hour flight from Bangkok on the resort’s private plane, Soneva Kiri sits on Thailand’s 4th largest but least populated island, Koh Kood. One of the most exclusive resorts in the world, Soneva Kiri offers an unrivaled combination of luxury, environmentally friendly design and unforgettable, authentic Thai experiences."
         },
 
          {
             "id": 3,
             "name": "Time + Tide Miavana",
-            "location": "MADAGASCAR",
-            "img": "https://media-cdn.tripadvisor.com/media/photo-s/17/e7/36/76/time-tide-miavana.jpg"
+            "location": "Madagascar",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/17/e7/36/76/time-tide-miavana.jpg",
+            "desc": "Miavana is an incredibly luxurious resort located on remote Nosy Ankao island, which is part of a five-island archipelago off the north-east of Madagascar. Surrounded by vibrant coral reefs and the Indian Ocean’s spectacular maritime wonders, Miavana consist of only 14 one-, two-, and three-bedroom villas strung along the island’s western pure white beaches."
         },
 
          {
             "id": 4,
             "name": "Soneva Fushi",
-            "location": "MALDIVES",
-            "img": "https://sphere-estates-prop-images.s3.eu-west-2.amazonaws.com/p-a0Ef400000bY2OuEAK/600x/portal-a0Mf4000009Es5lEAC.jpg"
-        },
-
-         {
-            "id": 5,
-            "name": "Aman Sveti Stefan",
-            "location": "MONTENEGRO",
-            "img": "https://www.aman.com/sites/default/files/styles/2560x2560/public/aman_sveti_stefan_montenegro_-_singnature_pool_high_res_26707.jpg?itok=MdT8vXms"
+            "location": "Maldives",
+            "img": "https://sphere-estates-prop-images.s3.eu-west-2.amazonaws.com/p-a0Ef400000bY2OuEAK/600x/portal-a0Mf4000009Es5lEAC.jpg",
+            "desc": "Soneva Fushi, the first ‘Robinson Crusoe’ style hideaway in the Maldives, is set on the privately owned tropical island of Kunfunadhoo in Baa Atoll, a UNESCO World Biosphere Reserve. The island – which is 1,400 m (4,600 ft) long and 400 m (1300 ft) wide – ranks among the largest islands in the Maldives. Apart from the crystal clear waters, white beaches and tropical climate, the island’s unusually rich vegetation offers a unique natural experience."
         }
         
     ]
