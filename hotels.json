@@ -1,0 +1,46 @@
+{
+    "hotels": [
+        {
+            "id": 0,
+            "name": "SONEVA JANI",
+            "location": "MALDIVES",
+            "img": "https://soneva.com/wp-content/uploads/2017/12/3-Bedroom-Water-Reserve-at-Soneva-Jani-2-by-Jack-Brown.jpg"
+        },
+
+         {
+            "id": 1,
+            "name": "NORTH ISLAND",
+            "location": "SEYCHELLES",
+            "img": "https://www.north-island.com/wp-content/uploads/2018/10/north-island-the-island-8.jpg"
+        },
+
+         {
+            "id": 2,
+            "name": "Soneva Kiri",
+            "location": "THAILAND",
+            "img": "https://soneva.com/wp-content/uploads/2018/01/5BR-Private-Bayview-Reserve-by-Herbert-Ypma-1.jpg"
+        },
+
+         {
+            "id": 3,
+            "name": "Time + Tide Miavana",
+            "location": "MADAGASCAR",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/17/e7/36/76/time-tide-miavana.jpg"
+        },
+
+         {
+            "id": 4,
+            "name": "Soneva Fushi",
+            "location": "MALDIVES",
+            "img": "https://soneva.com/wp-content/uploads/2020/10/15364_Group-event-at-Soneva-Fushi.jpg"
+        },
+
+         {
+            "id": 5,
+            "name": "Aman Sveti Stefan",
+            "location": "MONTENEGRO",
+            "img": "https://www.aman.com/sites/default/files/styles/2560x2560/public/aman_sveti_stefan_montenegro_-_singnature_pool_high_res_26707.jpg?itok=MdT8vXms"
+        }
+        
+    ]
+}
