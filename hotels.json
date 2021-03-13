@@ -2,7 +2,7 @@
     "hotels": [
         {
             "id": 0,
-            "name": "SONEVA JANI",
+            "name": "Soneva Jani",
             "location": "Maldives",
             "img": "https://cf.bstatic.com/images/hotel/max1024x768/287/287331792.jpg",
             "desc": "Inspired by a word that means wisdom in Sanskrit, Soneva Jani is located on Medhufaru island, which is part of an uninhabited five-island cluster in the Noonu Atoll. The Maldives’ most exclusive hotel, and my absolutely favorite hotel in the world, is fringed by pristine beaches, blanketed with lush tropical greenery, and surrounded by a 5.6 km (3,4 mi) lagoon of crystal clear waters with uninterrupted 360° views of the Indian Ocean. Currently, "
@@ -10,7 +10,7 @@
 
          {
             "id": 1,
-            "name": "NORTH ISLAND",
+            "name": "North Island",
             "location": "Seychelles",
             "img": "https://www.north-island.com/wp-content/uploads/2018/10/north-island-the-island-8.jpg",
             "desc": "North Island has a reputation as world’s most exclusive hideaway. The insanely beautiful island has only 11 opulent hand-crafted villas overlooking the pristine, powder-white sands and turquoise waters of the Ile Du Nord eco-reserve. Raised off the ground to catch the cooling Indian Ocean breezes, all villas open up onto private gardens and the beach."
