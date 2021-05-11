@@ -4,10 +4,21 @@
             "id": 0,
             "name": "Soneva Jani",
             "location": "Maldives",
-            "img": "https://cf.bstatic.com/images/hotel/max1024x768/287/287331792.jpg",
-            "thumb1":"https://media-cdn.tripadvisor.com/media/photo-s/1c/b3/7d/a7/bedroom-overwater.jpg",
-            "thumb2":"https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2021/03/SONEVA-JANI-CHAPTER-TWO.jpg?ssl=1",
-            "thumb3":"https://www.traveldailymedia.com/assets/2021/03/17223_Soneva-Jani-Overseas-by-Mathias-Dahlgren-1-scaled-e1615190658227.jpg",
+            "img": "https://cf.bstatic.com/images/hotel/max1024x768/287/287331792.jpg", 
+            "thumbnails": [
+                {
+                    "id":0,
+                    "thumb1":"https://media-cdn.tripadvisor.com/media/photo-s/1c/b3/7d/a7/bedroom-overwater.jpg"
+                },
+                {
+                    "id":1,
+                    "thumb2":"https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2021/03/SONEVA-JANI-CHAPTER-TWO.jpg?ssl=1"
+                },
+                {
+                    "id":2,
+                    "thumb3":"https://www.traveldailymedia.com/assets/2021/03/17223_Soneva-Jani-Overseas-by-Mathias-Dahlgren-1-scaled-e1615190658227.jpg"
+                }
+            ],       
             "desc": "Inspired by a word that means wisdom in Sanskrit, Soneva Jani is located on Medhufaru island, which is part of an uninhabited five-island cluster in the Noonu Atoll. The Maldives’ most exclusive hotel, and my absolutely favorite hotel in the world, is fringed by pristine beaches, blanketed with lush tropical greenery, and surrounded by a 5.6 km (3,4 mi) lagoon of crystal clear waters with uninterrupted 360° views of the Indian Ocean. Currently, "
         },
 
@@ -16,9 +27,20 @@
             "name": "North Island",
             "location": "Seychelles",
             "img": "https://www.north-island.com/wp-content/uploads/2018/10/north-island-the-island-8.jpg",
-            "thumb1":"https://images.trvl-media.com/hotels/23000000/22520000/22514700/22514671/ee649e19.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
-            "thumb2": "https://www.odyssey-travels.com/site/lodges/north-island=402694-310.jpg",
-            "thumb3": "https://thevillacollection.com/wp-content/uploads/2015/07/The-Villa-Collection-North-Island3.jpg",
+            "thumbnails":[
+                {
+                    "id":0,
+                    "thumb1":"https://images.trvl-media.com/hotels/23000000/22520000/22514700/22514671/ee649e19.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+                },
+                {
+                    "id":1,
+                    "thumb2": "https://www.odyssey-travels.com/site/lodges/north-island=402694-310.jpg"
+                },
+                {
+                    "id":2,
+                    "thumb3": "https://thevillacollection.com/wp-content/uploads/2015/07/The-Villa-Collection-North-Island3.jpg"
+                }
+            ],
             "desc": "North Island has a reputation as world’s most exclusive hideaway. The insanely beautiful island has only 11 opulent hand-crafted villas overlooking the pristine, powder-white sands and turquoise waters of the Ile Du Nord eco-reserve. Raised off the ground to catch the cooling Indian Ocean breezes, all villas open up onto private gardens and the beach."
         },
 
@@ -27,9 +49,20 @@
             "name": "Soneva Kiri",
             "location": "Thailand",
             "img": "https://deluxe-escapes.com/wp-content/uploads/2013/11/Soneva-Kiri-3-Cover-1050x600.jpg",
-            "thumb1":"https://pix10.agoda.net/hotelImages/159165/-1/073215a5ab7eed94d6d696dcb5f4fae2.jpg",
-            "thumb2":"https://www.travelplusstyle.com/wp-content/gallery/soneva-kiri-by-six-senses/11829_soneva-kiri-soneva-kiri-treepod-dining.jpg",
-            "thumb3":"https://pix2.agoda.net/hotelimages/159/159165/159165_17061310520053630992.jpg",
+            "thumbnails":[
+                {
+                    "id":0,
+                    "thumb1":"https://pix10.agoda.net/hotelImages/159165/-1/073215a5ab7eed94d6d696dcb5f4fae2.jpg"
+                },
+                {
+                    "id":1,
+                    "thumb2":"https://www.travelplusstyle.com/wp-content/gallery/soneva-kiri-by-six-senses/11829_soneva-kiri-soneva-kiri-treepod-dining.jpg"
+                },
+                {
+                    "id":2,
+                    "thumb3":"https://pix2.agoda.net/hotelimages/159/159165/159165_17061310520053630992.jpg"
+                }
+            ],           
             "desc": "Remote yet accessible by a one hour flight from Bangkok on the resort’s private plane, Soneva Kiri sits on Thailand’s 4th largest but least populated island, Koh Kood. One of the most exclusive resorts in the world, Soneva Kiri offers an unrivaled combination of luxury, environmentally friendly design and unforgettable, authentic Thai experiences."
         },
 
@@ -38,9 +71,21 @@
             "name": "Miavana",
             "location": "Madagascar",
             "img": "https://media-cdn.tripadvisor.com/media/photo-s/17/e7/36/76/time-tide-miavana.jpg",
-            "thumb1":"https://www.odyssey-travels.com/site/lodges/miavana-private-island-guide-to-miavana-madagascar=403761-320.jpg",
-            "thumb2":"https://lh3.googleusercontent.com/proxy/n8rjK43hm475fAurQyHSJxBWo-YUyHB6f3hHnvvC-OCqE0X4M_J2hKhdtl8Gu8dHVATn_1IL8kvLZRxhPRfd_XEpiqhOALGlfLbru7HAfbdkHIxjwwuFKinlSUTAgWgxKMHMAY3csjE2PeaqjPDwSniBaq0KNHDNW2xGC0SgDPeZL4s",
-            "thumb3":"https://yellowzebrasafaris.com/media/41660/time-plus-tide-miavana-villa-27.jpg?anchor=center&mode=crop&width=2048&height=1024&format=jpg&rnd=132059419490000000",
+            "thumbnails":[
+                {
+                    "id":0,
+                    "thumb1":"https://www.odyssey-travels.com/site/lodges/miavana-private-island-guide-to-miavana-madagascar=403761-320.jpg"
+                },
+                {
+                    "id":1,
+                    "thumb2":"https://lh3.googleusercontent.com/proxy/n8rjK43hm475fAurQyHSJxBWo-YUyHB6f3hHnvvC-OCqE0X4M_J2hKhdtl8Gu8dHVATn_1IL8kvLZRxhPRfd_XEpiqhOALGlfLbru7HAfbdkHIxjwwuFKinlSUTAgWgxKMHMAY3csjE2PeaqjPDwSniBaq0KNHDNW2xGC0SgDPeZL4s"
+                },
+                {
+                    "id":2,
+                    "thumb3":"https://yellowzebrasafaris.com/media/41660/time-plus-tide-miavana-villa-27.jpg?anchor=center&mode=crop&width=2048&height=1024&format=jpg&rnd=132059419490000000"
+                }
+
+            ],       
             "desc": "Miavana is an incredibly luxurious resort located on remote Nosy Ankao island, which is part of a five-island archipelago off the north-east of Madagascar. Surrounded by vibrant coral reefs and the Indian Ocean’s spectacular maritime wonders, Miavana consist of only 14 one-, two-, and three-bedroom villas strung along the island’s western pure white beaches."
         },
 
@@ -49,9 +94,20 @@
             "name": "Soneva Fushi",
             "location": "Maldives",
             "img": "https://sphere-estates-prop-images.s3.eu-west-2.amazonaws.com/p-a0Ef400000bY2OuEAK/600x/portal-a0Mf4000009Es5lEAC.jpg",
-            "thumb1":"http://www.budgetmaldives.com/wp-content/uploads/2020/06/Soneva-Fushi-Villa-37-The-Maldives-Front-View-1.jpg",
-            "thumb2":"https://www.wayfarersatlas.com/wp-content/uploads/2019/06/10778_Soneva-Fushi-Resort-5-Bedroom-_Villa-37_.jpg",
-            "thumb3":"https://cf.bstatic.com/images/hotel/max1280x900/252/252360379.jpg",
+            "thumbnails":[
+                {
+                    "id":0,
+                    "thumb1":"http://www.budgetmaldives.com/wp-content/uploads/2020/06/Soneva-Fushi-Villa-37-The-Maldives-Front-View-1.jpg"
+                },
+                {
+                    "id":1,
+                    "thumb2":"https://www.wayfarersatlas.com/wp-content/uploads/2019/06/10778_Soneva-Fushi-Resort-5-Bedroom-_Villa-37_.jpg"
+                },
+                {
+                    "id":2,
+                    "thumb3":"https://cf.bstatic.com/images/hotel/max1280x900/252/252360379.jpg"
+                }
+            ],          
             "desc": "Soneva Fushi, the first ‘Robinson Crusoe’ style hideaway in the Maldives, is set on the privately owned tropical island of Kunfunadhoo in Baa Atoll, a UNESCO World Biosphere Reserve. The island – which is 1,400 m (4,600 ft) long and 400 m (1300 ft) wide – ranks among the largest islands in the Maldives. Apart from the crystal clear waters, white beaches and tropical climate, the island’s unusually rich vegetation offers a unique natural experience."
         }
         
